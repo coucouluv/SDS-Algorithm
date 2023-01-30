@@ -3,7 +3,7 @@
 
 |DAY|내용|푼 문제|
 |------|---|---|
-|Day :one:|[알고리즘 기초](https://github.com/coucouluv/SDS-Algorithm/tree/main/DAY1)|1/12|
+|Day :one:|[알고리즘 기초](https://github.com/coucouluv/SDS-Algorithm/tree/main/DAY1)|3/12|
 |Day :two:|테스트2|테스트3|
 |Day :three:|테스트2|테스트3|
 |Day :four:|테스트2|테스트3|
