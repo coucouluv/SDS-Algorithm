@@ -8,7 +8,7 @@
 |Day :three:|[자료구조](https://github.com/coucouluv/SDS-Algorithm/tree/main/DAY3)|6/18|
 |Day :four:|[정수론](https://github.com/coucouluv/SDS-Algorithm/tree/main/DAY4)|3/14|
 |Day :five:|[조합론](https://github.com/coucouluv/SDS-Algorithm/tree/main/DAY5)|2/12|
-|Day :six:|테스트2|테스트3|
+|Day :six:|[그래프1](https://github.com/coucouluv/SDS-Algorithm/tree/main/DAY6)|3/9|
 |Day :seven:|테스트2|테스트3|
 |Day :eight:|테스트2|테스트3|
 |Day :nine:|테스트2|테스트3|
